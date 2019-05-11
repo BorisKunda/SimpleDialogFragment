@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\e0cb7784ca8d4abb7c6ee390950d1f8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\27482f135a61eccd1ea716c70b775689\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\f8e5931852d72cd0bdf5661198aec1ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\5a1cc9b5d42b33dd88457f53666c72d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5652ad78cd6fbf6e7b6b596a6ba61e18\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2c04a3904dac41f05f01f9a0a6a04cf4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3937a06b050a526056b40c8e3ca032a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b3f5fdee50234dc983d7ef65ca5c7828\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:2:2-43
+	android:versionName
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:3:2-25
+		INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:6:2-10:33
+	android:largeScreens
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:7:3-30
+	android:smallScreens
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:9:3-31
+	android:normalScreens
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:8:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:10:3-31
+application
+ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:12:2-25:16
+	android:label
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:14:3-35
+	android:icon
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:13:3-37
+	android:theme
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:15:3-34
+activity#com.commonsware.android.dlgfrag.MainActivity
+ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:16:3-24:14
+	android:label
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:18:4-47
+	android:name
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:17:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:19:4-23:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:20:5-56
+	android:name
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:20:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml:22:15-62
+uses-sdk
+INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\e0cb7784ca8d4abb7c6ee390950d1f8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\e0cb7784ca8d4abb7c6ee390950d1f8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\27482f135a61eccd1ea716c70b775689\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\27482f135a61eccd1ea716c70b775689\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\f8e5931852d72cd0bdf5661198aec1ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\f8e5931852d72cd0bdf5661198aec1ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\5a1cc9b5d42b33dd88457f53666c72d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\5a1cc9b5d42b33dd88457f53666c72d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5652ad78cd6fbf6e7b6b596a6ba61e18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5652ad78cd6fbf6e7b6b596a6ba61e18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2c04a3904dac41f05f01f9a0a6a04cf4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2c04a3904dac41f05f01f9a0a6a04cf4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3937a06b050a526056b40c8e3ca032a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3937a06b050a526056b40c8e3ca032a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b3f5fdee50234dc983d7ef65ca5c7828\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Win10 User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b3f5fdee50234dc983d7ef65ca5c7828\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Win10 User\Desktop\DialogFragment\app\src\main\AndroidManifest.xml

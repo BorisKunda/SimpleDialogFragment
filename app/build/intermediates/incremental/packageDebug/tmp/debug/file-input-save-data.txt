@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat May 11 14:32:38 IDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Win10 User\\Desktop\\DialogFragment\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
